@@ -1,1 +1,10 @@
-Hello
+spring:
+  application:
+    name: Config-UAT
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka

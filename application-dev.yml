@@ -1,6 +1,7 @@
 spring:
   application:
     name: Config-Dev
+    tag: new
 
 eureka:
   instance:

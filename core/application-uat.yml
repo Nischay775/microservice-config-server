@@ -2,6 +2,7 @@
 spring:
   application:
     name: Config-Uat
+    tag: latets
 
 eureka:
   instance:

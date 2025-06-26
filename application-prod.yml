@@ -1,7 +1,7 @@
 spring:
   application:
     name: Config-Prod
-    Tag: latest-new
+    Tag: latest-new-2
 
 eureka:
   instance:

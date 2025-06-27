@@ -2,6 +2,7 @@ spring:
   application:
     name: Config-Prod
     Tag: latest-new-2
+    Branch: Hello
 
 eureka:
   instance:

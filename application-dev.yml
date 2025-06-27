@@ -2,6 +2,7 @@ spring:
   application:
     name: Config-Dev
     tag: new
+    test: Hello
 
 eureka:
   instance:
